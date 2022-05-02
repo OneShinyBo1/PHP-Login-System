@@ -12,7 +12,7 @@
             <input type="password" name="pwdrepeat" placeholder="Repeat password...">
             <button type="submit" name="submit"> Sign Up</button>
         </form>
-        
+
         <?php
     if (isset($_GET["error"])) {
         if ($_GET["error"] == "emptyinput") {
