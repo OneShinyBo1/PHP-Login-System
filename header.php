@@ -20,8 +20,8 @@
         <div class="wrapper">
             <ul>
                 <li><a href="index.php">Home Page</a></li>
-                <li><a href="discover.php">Discover</a></li>
-                <li><a href="blog.php">Blog</a></li>
+                <li><a href="game.php">The Game</a></li>
+                <li><a href="laws.php">Laws</a></li>
                 <?php
                 if (isset($_SESSION["useruid"])) {
                     echo "<li><a href='profile.php'>Profile page</a></li>";
