@@ -3,7 +3,7 @@
 ?>
 
 
-<h2>Laws (I am not breaking them)</h2>
+<h2>Laws (the Personal Data Act)</h2>
 
 <h3>List of things I am not doing</h3>
 
@@ -20,6 +20,15 @@
     <li>Treating my employees (me) with care</li>
     <li>Storing your Email, username, full name and hashed password in my database</li>
 </ul>
+
+<br>
+
+<h3>Consequences of breaking the Personal Data Act</h3>
+<ul>
+    <li>Fines</li>
+    <li>Up to one year in prison</li>
+</ul>
+
 
 <?php
     include_once 'footer.php';

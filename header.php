@@ -3,7 +3,7 @@
 
 ?>
 
-
+<!-- Is its own document so it can be referenced in other documents for simplicitys  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
