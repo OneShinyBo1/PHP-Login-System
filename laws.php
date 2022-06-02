@@ -3,7 +3,7 @@
 ?>
 
 
-<h2>Laws (the Personal Data Act)</h2>
+<h1>Laws (the Personal Data Act)</h1>
 
 <h3>List of things I am not doing</h3>
 
@@ -18,7 +18,7 @@
 <h3>List of things I AM doing</h3>
 <ul>
     <li>Treating my employees (me) with care</li>
-    <li>Storing your Email, username, full name and hashed password in my database</li>
+    <li>Storing your Email, username, full name and hashed password in my perfectly secured database</li>
 </ul>
 
 <br>
